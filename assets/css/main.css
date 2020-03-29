@@ -3529,6 +3529,11 @@ input, select, textarea {
 		background-attachment: scroll;
 	}
 
+	/* Span */
+	span.hashtags {
+		color: #e44c65;
+	}
+
 /* Footer */
 
 	#footer {
@@ -3641,6 +3646,11 @@ input, select, textarea {
 				padding: 4.5em;
 			}
 
+			/* Span */
+			span.hashtags {
+				color: #e44c65;
+			}
+
 		/* Footer */
 
 			#footer {
@@ -3734,6 +3744,11 @@ input, select, textarea {
 					#banner .content .image {
 						margin: 0;
 					}
+
+			/* Span */
+			span.hashtags {
+				color: #e44c65;
+			}
 
 		/* Footer */
 
@@ -4038,6 +4053,11 @@ input, select, textarea {
 				transform: translateX(0);
 			}
 
+			/* Span */
+			span.hashtags {
+				color: #e44c65;
+			}
+
 		/* Footer */
 
 			#footer {
@@ -4089,6 +4109,11 @@ input, select, textarea {
 
 			#banner .content {
 				padding: 3em 1.5625em 5.25em 1.5625em;
+			}
+
+			/* Span */
+			span.hashtags {
+				color: #e44c65;
 			}
 
 		/* Footer */
